@@ -9,3 +9,4 @@ Desktop.ini
 .cabal-sandbox
 cabal.sandbox.config
 examples/*.exe
+.stack-work/

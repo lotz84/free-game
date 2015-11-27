@@ -1,0 +1,16 @@
+resolver: lts-3.15
+packages:
+- '.'
+extra-deps:
+- GLURaw-1.5.0.2
+- ObjectName-1.1.0.0
+- bindings-GLFW-3.1.1.4
+- GLFW-b-1.4.7.3
+- JuicyPixels-util-0.2
+- OpenGL-2.13.1.0
+- OpenGLRaw-2.6.0.0
+- boundingboxes-0.2.3
+- colors-0.3.0.2
+- freetype2-0.1.1
+flags: {}
+extra-package-dbs: []
